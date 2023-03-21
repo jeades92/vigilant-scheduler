@@ -27,6 +27,7 @@
 ![screenshot](./assets/Screenshot%202023-03-21%20at%204.49.44%20PM.png)
 
 <p>[Github Repository](https://github.com/jeades92/vigilant-scheduler)</p>
+<br>
 <p>[Deployed Site](https://jeades92.github.io/vigilant-scheduler/)</p>
 
 <h3>Collaborators</h3>
